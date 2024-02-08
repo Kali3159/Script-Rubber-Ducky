@@ -1,0 +1,1 @@
+Dans le fichier DiskInfo.ps1 vous devez ajouter votre Webhook discord a la place de "VOTRE_WEBHOOK"
