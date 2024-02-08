@@ -43,3 +43,7 @@ Pour chaque disque, le script récupère également des informations sur les par
 (Les mêmes informations sont fournies pour les autres partitions.)
 
 Les informations sont envoyées au webhook Discord spécifié, ce qui vous permet de les consulter facilement depuis votre serveur Discord.
+
+
+## Mon Discord : kalienclaquettes
+
