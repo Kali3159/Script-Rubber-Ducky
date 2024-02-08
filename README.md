@@ -1,8 +1,11 @@
-## Script-Rubber-Ducky
-#Script Rubber Ducky for BadKB on Flipper Zero
+# Script Rubber Ducky
 
-Les script ont été developper de manière a fonctionner avec BadKB sur Flipper Zéro.
-Le but était de récupérer un maximum d'informations d'une machine windows et de l'envoyer vers un serveur discord via un webhook.
-#D'autres scripts sont en cours de développement.
+Ce script Rubber Ducky est destiné à être utilisé avec BadKB sur Flipper Zero.
 
-Mon discord : kalienclaquettes
+Les scripts ont été développés pour fonctionner avec BadKB sur Flipper Zéro.
+
+Le but était de récupérer un maximum d'informations à partir d'une machine Windows et de les envoyer vers un serveur Discord via un webhook.
+
+D'autres scripts sont en cours de développement.
+
+Mon Discord : kalienclaquettes
