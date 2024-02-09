@@ -1,4 +1,7 @@
-REM Télécharger et exécuter un script à partir de GitHub
+REM Auteur: Kali
+REM Contact: Discord - kalienclaquettes
+REM
+REM Ce script télécharge et exécute un script powershell à partir de GitHub
 
 REM Ouverture du CMD.exe
 GUI r
