@@ -1,3 +1,12 @@
+<#
+Auteur: Kali
+Contact: Discord - kalienclaquettes
+
+Ce script récupère des informations sur les disques présents sur un système Windows et les envoie vers un webhook Discord.
+
+Note: Assurez-vous de remplacer 'VOTRE_WEBHOOK' (ligne 43) par l'URL de votre webhook Discord.
+#>
+
 # Récupération de la liste des disques présents sur le système
 $disks = Get-Disk
 
